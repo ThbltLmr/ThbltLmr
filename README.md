@@ -1,6 +1,6 @@
 27-year-old web developer, passionate about technology and always enthusiastic about tackling new challenges. 
 
-After a first education and career in finance and management consulting, I changed careers and learned web development at Le Wagon in Paris, and have kept improving my skills since through personal projects (feel free to checkout my GitHub: github.com/ThbltLmr)
+After a first education and career in finance and management consulting, I changed careers and learned web development at Le Wagon in Paris. I have since kept improving my skills since through personal projects
 
 Committed to continuous learning and improving, and currently looking for opportunities in back-end or full-stack development.
 
