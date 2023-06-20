@@ -4,6 +4,8 @@ After a first education and career in finance and management consulting, I chang
 
 Committed to continuous learning and improving, and currently looking for opportunities in back-end or full-stack development.
 
+Currently learning React.js, Python and Korean
+
 Stack:
 - Back-end: Ruby, RoR
 - Databases: SQL, PostgreSQL, Redis
