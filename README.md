@@ -9,6 +9,6 @@ Currently learning React.js, Python and Korean
 Stack:
 - Back-end: Ruby, RoR
 - Databases: SQL, PostgreSQL, Redis
-- Front-end: HTML5, CSS, Bootstrap, JavaScript, Stimulus JS
+- Front-end: HTML5, CSS, Bootstrap, Tailwind, JavaScript, Stimulus JS, React
 - Git
 - Deployment: Heroku, Scalingo
