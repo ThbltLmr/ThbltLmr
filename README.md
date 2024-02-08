@@ -1,4 +1,4 @@
-Fullstack developer @ [[Mediflash]](https://mediflash.fr/)
+Fullstack developer @ [Mediflash](https://mediflash.fr/)
 
 Skills:
 - Back-end: Node.js, TypeScript, NestJS, Ruby, RoR, Python
