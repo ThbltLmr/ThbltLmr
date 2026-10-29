@@ -57,6 +57,6 @@ Note: a lot of my work lives on client GitLabs and client GitHub orgs. I replay 
 │   └── <a href="https://github.com/ThbltLmr/pi-starship-footer">pi-starship-footer</a>    starship-style footer: context, model, git, quota, cost
 └── <b>toys/</b>
     ├── <a href="https://github.com/ThbltLmr/yt-term">yt-term</a>               youtube live, rendered in your terminal (rust, kitty graphics)
-    ├── <a href="https://github.com/ThbltLmr/claudinosaur">claudinosaur</a>          chrome dino game while claude code thinks (go)
+    ├── <a href="https://github.com/ThbltLmr/claudinosaur">claudinosaur</a>          chrome dino game while claude code thinks (claude code mod, typescript)
     ├── <a href="https://github.com/ThbltLmr/herdr-omarchy-widget">herdr-omarchy-widget</a>  agent status in the omarchy bar, click to focus
 </pre>
